@@ -2,15 +2,9 @@
   <img width="400" alt="dbt logo" src="assets/dbt-logo.png" />
 </p>
 <p align="center">
-  <a href="https://github.com/dbt-labs/dbt/actions/workflows/ci.yml?query=branch%3Amain">
-    <img src="https://github.com/dbt-labs/dbt/actions/workflows/ci.yml/badge.svg?branch=main&amp;event=push" alt="dbt upstream CI"/>
-  </a>
-  <a href="https://github.com/dbt-labs/dbt/releases/latest">
-    <img src="https://img.shields.io/github/v/release/dbt-labs/dbt" alt="Latest dbt release"/>
-  </a>
-  <a href="https://github.com/dbt-labs/dbt/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/license-Apache%202.0-blue" alt="License: Apache 2.0"/>
-  </a>
+  <a href="https://github.com/dbt-labs/dbt/actions/workflows/ci.yml?query=branch%3Amain"><img src="https://github.com/dbt-labs/dbt/actions/workflows/ci.yml/badge.svg?branch=main&amp;event=push" alt="dbt upstream CI"/></a>
+  <a href="https://github.com/dbt-labs/dbt/releases/latest"><img src="https://img.shields.io/github/v/release/dbt-labs/dbt" alt="Latest dbt release"/></a>
+  <a href="https://github.com/dbt-labs/dbt/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-Apache%202.0-blue" alt="License: Apache 2.0"/></a>
 </p>
 
 > [!WARNING]
