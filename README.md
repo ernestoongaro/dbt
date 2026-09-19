@@ -1,9 +1,9 @@
 <p align="center">
-  <img width="750" alt="dbt logo" src="assets/dbt-logo.png" />
+  <img width="400" alt="dbt logo" src="assets/dbt-logo.png" />
 </p>
 <p align="center">
-  <a href="https://github.com/dbt-labs/dbt-core/actions/workflows/main.yml">
-    <img src="https://github.com/dbt-labs/dbt-core/actions/workflows/main.yml/badge.svg?event=push" alt="CI Badge"/>
+  <a href="https://github.com/dbt-labs/dbt/actions/workflows/ci.yml?query=branch%3Amain">
+    <img src="https://github.com/dbt-labs/dbt/actions/workflows/ci.yml/badge.svg?branch=main&amp;event=push" alt="dbt upstream CI"/>
   </a>
 </p>
 
